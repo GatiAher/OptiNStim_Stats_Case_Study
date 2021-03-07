@@ -1,7 +1,7 @@
 # OptiNStim Stats Case Study
 A Statistical Case Study for Neuroscience 2021
 
-[Final Report](./blob/main/OptiNStim_case_study.pdf)
+[Final Report](./OptiNStim_case_study.pdf)
 
 A project to practice
 - Working with MATLAB LiveScripts
